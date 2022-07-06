@@ -8,7 +8,7 @@ int main()
 	std::string name;
 	std::cin >> name;
 
-	// build the message that we intend to write
+	// build the message that we intend to write 
 	const std::string greeting = "Hello, " + name + "!";
 
 	// build the second and fourth lines of the output
